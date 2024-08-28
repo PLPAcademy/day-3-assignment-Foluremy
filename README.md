@@ -16,8 +16,9 @@ ANSWER: B) Download the Dart SDK
 
 A) dart --install
 B) dart --check
-
-ANSWER:
+C) dart --verify
+D) dart --version
+ANSWER: D) dart --version
 
 3. What is the next step after downloading and extracting the Flutter SDK on Linux?
 
